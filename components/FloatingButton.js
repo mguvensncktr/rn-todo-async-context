@@ -16,7 +16,7 @@ const FloatingButton = () => {
             borderRadius: 30,
             width: 60,
             height: 60,
-            zIndex: 999,
+            zIndex: 10,
         }}>
             <TouchableOpacity
                 style={{
